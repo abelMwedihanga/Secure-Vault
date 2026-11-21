@@ -1,9 +1,6 @@
 # Secure-Vault
 
-A simple encryption file tool.
-
-Secure-Vault lets you protect your private files with a password. 
-Encrypt any file so only you can open it, and decrypt it when you need it back.
+A Python tool for encrypting and protecting sensitive files. Designed to demonstrate practical cryptography and secure file handling.
 
 ## Features
 - Encrypt files with a password
